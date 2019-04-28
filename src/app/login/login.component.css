@@ -1,3 +1,5 @@
+/* $orignal_primum_color = #673ab7; */
+
 .main-container{
     margin: auto;
     left: 0;
@@ -14,7 +16,7 @@
 .example-50-width {
   width: 50%;
 }
-.example-25-width {
+.mbtns {
   margin-top: 24px;
   width: 50%
 }
